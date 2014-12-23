@@ -1,0 +1,15 @@
+Options -Indexes
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?localhost [NC]
+RewriteRule \.(jpg|jpeg|png|gif|pdf)$ - [NC,F,L]
+
+
+RewriteRule ^trangchu.html$ index.php
+RewriteRule ^danh-muc/(\d+)-[\w-]+.html$ index.php?module=category&id=$1
+RewriteRule ^danh-muc/(\d+)-[\w-]+/trang(\d+).html$ index.php?module=category&id=$1&page=$2
+RewriteRule ^timkiem.html$ index.php?module=search
+RewriteRule ^giohang.html$ index.php?module=cart
+RewriteRule ^dangky.html$ index.php?module=registration
+RewriteRule ^thanhtoan.html$ index.php?module=asset
+RewriteRule ^tusach.html$ index.php?module=bookcase

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BOOK>
+  <PAGE>
+    <ITEM id="41" cid="5">
+      <TITLE>Một Cõi Đi Về</TITLE>
+      <IMG>default.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Không xác định</AUTHOR>
+      <PUBLISHER>Không xác định</PUBLISHER>
+      <DATE>2013</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+  </PAGE>
+  <TP>1</TP>
+</BOOK>

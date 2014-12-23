@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BOOK>
+  <PAGE>
+    <ITEM id="56" cid="1">
+      <TITLE>Thinking in Java, 3rd Edition</TITLE>
+      <IMG>thinking-in-java-3rd-edition.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Bruce Eckel</AUTHOR>
+      <PUBLISHER>Không xác định</PUBLISHER>
+      <DATE>2013</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="54" cid="1">
+      <TITLE>101 thủ thuật SEO</TITLE>
+      <IMG>101-thu-thuat-seo.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Tĩnh Trần</AUTHOR>
+      <PUBLISHER>Không xác định</PUBLISHER>
+      <DATE>2010</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="51" cid="1">
+      <TITLE>Giáo trình SQL</TITLE>
+      <IMG>giao-trinh-sql.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Không xác định</AUTHOR>
+      <PUBLISHER>Không xác định</PUBLISHER>
+      <DATE>Không xác định</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="50" cid="1">
+      <TITLE>Giáo trình Photoshop CS8</TITLE>
+      <IMG>giao-trinh-photoshop-cs8.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Lưu Hoàng Lý</AUTHOR>
+      <PUBLISHER>Không xác định</PUBLISHER>
+      <DATE>2011</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+  </PAGE>
+  <PAGE>
+    <ITEM id="48" cid="1">
+      <TITLE>Facebook Application Development for Dummies</TITLE>
+      <IMG>facebook-application-development-for-dummies.jpg</IMG>
+      <COST>3</COST>
+      <AUTHOR>Stay, Jesse</AUTHOR>
+      <PUBLISHER>www.it-book.info</PUBLISHER>
+      <DATE>2013</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="47" cid="1">
+      <TITLE>PHP căn bản</TITLE>
+      <IMG>php-can-ban.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Phạm Hữu Khang</AUTHOR>
+      <PUBLISHER>www.huukhang.com</PUBLISHER>
+      <DATE>2008</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="44" cid="1">
+      <TITLE>Advanced Java Networking</TITLE>
+      <IMG>advanced-java-networking.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Không xác định</AUTHOR>
+      <PUBLISHER>Không xác định</PUBLISHER>
+      <DATE>Không xác định</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+  </PAGE>
+  <TP>2</TP>
+</BOOK>

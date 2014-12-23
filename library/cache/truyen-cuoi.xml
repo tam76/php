@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BOOK>
+  <PAGE>
+    <ITEM id="36" cid="2">
+      <TITLE>truyện cười song ngữ Anh-Việt</TITLE>
+      <IMG>default.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>haha</AUTHOR>
+      <PUBLISHER>bbb</PUBLISHER>
+      <DATE>2012</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+  </PAGE>
+  <TP>1</TP>
+</BOOK>

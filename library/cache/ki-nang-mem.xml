@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BOOK>
+  <PAGE>
+    <ITEM id="57" cid="3">
+      <TITLE>Tôi tài giỏi, bạn cũng thế</TITLE>
+      <IMG>default.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Adam Khoo</AUTHOR>
+      <PUBLISHER>NXB Phụ Nữ</PUBLISHER>
+      <DATE>2010</DATE>
+      <SCORE>20</SCORE>
+      <VOTES>1</VOTES>
+    </ITEM>
+    <ITEM id="53" cid="3">
+      <TITLE>Phỏng vấn không hề đáng sợ</TITLE>
+      <IMG>phong-van-khong-he-dang-so.jpg</IMG>
+      <COST>2</COST>
+      <AUTHOR>Marky Stein</AUTHOR>
+      <PUBLISHER>INNMA</PUBLISHER>
+      <DATE>2012</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="52" cid="3">
+      <TITLE>Nghệ thuật săn việc 2.0</TITLE>
+      <IMG>nghe-thuat-san-viec-20.jpg</IMG>
+      <COST>3</COST>
+      <AUTHOR>Jay Conrad Levinson &amp;amp; David E.Perry</AUTHOR>
+      <PUBLISHER>NXB Trẻ</PUBLISHER>
+      <DATE>2012</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+  </PAGE>
+  <TP>1</TP>
+</BOOK>

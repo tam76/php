@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BOOK>
+  <PAGE>
+    <ITEM id="58" cid="5">
+      <TITLE>Đánh cắp ý tưởng</TITLE>
+      <IMG>danh-cap-y-tuong.jpg</IMG>
+      <COST>3</COST>
+      <AUTHOR>Steve Cone</AUTHOR>
+      <PUBLISHER>NXB Trẻ</PUBLISHER>
+      <DATE>2011</DATE>
+      <SCORE>12</SCORE>
+      <VOTES>1</VOTES>
+    </ITEM>
+    <ITEM id="57" cid="3">
+      <TITLE>Tôi tài giỏi, bạn cũng thế</TITLE>
+      <IMG>default.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Adam Khoo</AUTHOR>
+      <PUBLISHER>NXB Phụ Nữ</PUBLISHER>
+      <DATE>2010</DATE>
+      <SCORE>20</SCORE>
+      <VOTES>1</VOTES>
+    </ITEM>
+    <ITEM id="56" cid="1">
+      <TITLE>Thinking in Java, 3rd Edition</TITLE>
+      <IMG>thinking-in-java-3rd-edition.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Bruce Eckel</AUTHOR>
+      <PUBLISHER>Không xác định</PUBLISHER>
+      <DATE>2013</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="55" cid="5">
+      <TITLE>Sự thật về 100 thất bại thương hiệu</TITLE>
+      <IMG>su-that-ve-100-that-bai-thuong-hieu.jpg</IMG>
+      <COST>3</COST>
+      <AUTHOR> Matt Haig</AUTHOR>
+      <PUBLISHER>NXB Tổng hợp TP.HCM</PUBLISHER>
+      <DATE>2011</DATE>
+      <SCORE>16</SCORE>
+      <VOTES>1</VOTES>
+    </ITEM>
+    <ITEM id="54" cid="1">
+      <TITLE>101 thủ thuật SEO</TITLE>
+      <IMG>101-thu-thuat-seo.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Tĩnh Trần</AUTHOR>
+      <PUBLISHER>Không xác định</PUBLISHER>
+      <DATE>2010</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="53" cid="3">
+      <TITLE>Phỏng vấn không hề đáng sợ</TITLE>
+      <IMG>phong-van-khong-he-dang-so.jpg</IMG>
+      <COST>2</COST>
+      <AUTHOR>Marky Stein</AUTHOR>
+      <PUBLISHER>INNMA</PUBLISHER>
+      <DATE>2012</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="52" cid="3">
+      <TITLE>Nghệ thuật săn việc 2.0</TITLE>
+      <IMG>nghe-thuat-san-viec-20.jpg</IMG>
+      <COST>3</COST>
+      <AUTHOR>Jay Conrad Levinson &amp;amp; David E.Perry</AUTHOR>
+      <PUBLISHER>NXB Trẻ</PUBLISHER>
+      <DATE>2012</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="51" cid="1">
+      <TITLE>Giáo trình SQL</TITLE>
+      <IMG>giao-trinh-sql.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Không xác định</AUTHOR>
+      <PUBLISHER>Không xác định</PUBLISHER>
+      <DATE>Không xác định</DATE>
+      <SCORE>8</SCORE>
+      <VOTES>1</VOTES>
+    </ITEM>
+    <ITEM id="50" cid="1">
+      <TITLE>Giáo trình Photoshop CS8</TITLE>
+      <IMG>giao-trinh-photoshop-cs8.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Lưu Hoàng Lý</AUTHOR>
+      <PUBLISHER>Không xác định</PUBLISHER>
+      <DATE>2011</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="49" cid="5">
+      <TITLE>Lĩnh vực chứng khoán</TITLE>
+      <IMG>linh-vuc-chung-khoan.jpg</IMG>
+      <COST>1</COST>
+      <AUTHOR>Không xác định</AUTHOR>
+      <PUBLISHER>NXB Kim Đồng</PUBLISHER>
+      <DATE>2011</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+  </PAGE>
+</BOOK>

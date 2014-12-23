@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BOOK>
+  <PAGE>
+    <ITEM id="58" cid="5">
+      <TITLE>Đánh cắp ý tưởng</TITLE>
+      <IMG>danh-cap-y-tuong.jpg</IMG>
+      <COST>3</COST>
+      <AUTHOR>Steve Cone</AUTHOR>
+      <PUBLISHER>NXB Trẻ</PUBLISHER>
+      <DATE>2011</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="55" cid="5">
+      <TITLE>Sự thật về 100 thất bại thương hiệu</TITLE>
+      <IMG>su-that-ve-100-that-bai-thuong-hieu.jpg</IMG>
+      <COST>3</COST>
+      <AUTHOR> Matt Haig</AUTHOR>
+      <PUBLISHER>NXB Tổng hợp TP.HCM</PUBLISHER>
+      <DATE>2011</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="49" cid="5">
+      <TITLE>Lĩnh vực chứng khoán</TITLE>
+      <IMG>linh-vuc-chung-khoan.jpg</IMG>
+      <COST>1</COST>
+      <AUTHOR>Không xác định</AUTHOR>
+      <PUBLISHER>NXB Kim Đồng</PUBLISHER>
+      <DATE>2011</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="46" cid="5">
+      <TITLE>Câu chuyện nhà quản lý cà rốt và nghệ thuật khen thưởng</TITLE>
+      <IMG>cau-chuyen-nha-quan-ly-ca-rot-va-nghe-thuat-khen-thuong.jpg</IMG>
+      <COST>3</COST>
+      <AUTHOR>Adrian Gostick &amp;amp; Chester Elton</AUTHOR>
+      <PUBLISHER>NXB trẻ</PUBLISHER>
+      <DATE>2011</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+  </PAGE>
+  <PAGE>
+    <ITEM id="45" cid="5">
+      <TITLE>Bí mật trị vì vương quốc đến quản lý công ty</TITLE>
+      <IMG>bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.jpg</IMG>
+      <COST>2</COST>
+      <AUTHOR>Seldon Bowles</AUTHOR>
+      <PUBLISHER>NXB Tổng hợp TP.HCM</PUBLISHER>
+      <DATE>2011</DATE>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+  </PAGE>
+  <TP>2</TP>
+</BOOK>
