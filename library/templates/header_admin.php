@@ -5,7 +5,6 @@ echo '<!DOCTYPE HTML>
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="author" content="Jackie Do" />
     
     <link rel="stylesheet" href="templates/css/style.css" />
     <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css" />
