@@ -1,9 +1,5 @@
 <?php
 
-/**
- * @author Ð? Anh Vu
- * @copyright 2014
- */
 class Model_User_User extends Database{
     protected $userid;
     protected $username;
