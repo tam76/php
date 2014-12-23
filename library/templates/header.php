@@ -3,7 +3,6 @@ echo '<!DOCTYPE HTML>
 <html>
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="author" content="Jackie Do" />
     <base href="' .$siteURL. '" />
     <meta name="keywords" content="Thu vien, Sach online, tai lieu online, ebook, do an, sach, tai lieu" />
     <meta name="description" content="Thư viện sách online nơi cung cấp các ebook, sách ,tài liệu chất lượng với các chủ đề phong phú" />
